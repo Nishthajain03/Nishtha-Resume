@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: #2d4154;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    /* margin-left: 190px;
+    margin-right: 190px; */
+
+}
+
+.contact-container{
+    background-color:#202f3d;
+   
+}
+
+.navbar{
+    color: white;
+}
+
+.contact-container a{
+    color: white; 
+    text-decoration: none;
+       
+}
+
+.contact-info{
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+.content-container h3{
+    color: turquoise;
+}
+
+.list-group-item{
+    border: none;
+
+}
+.section-block{
+    background-color: #00bfa6;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button{
+    background-color: #00bfa6;
+    padding: 10px;
+    margin: 10px;
+}
+
+.section-title{
+    text-decoration: underline;
+}
+
+.section-tech-content{
+    display: block;
+}
+
+.footer{
+    background-color: #202f3d;
+}
+
+.footer-content{
+   padding: 20px;
+}
